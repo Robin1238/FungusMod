@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: firstmod
+Specification-Vendor: firstmodsareus
+Specification-Version: 1
+Implementation-Title: Forge
+Implementation-Version: 1.0.0
+Implementation-Vendor: firstmodsareus
+Implementation-Timestamp: 2024-03-31T17:46:42-0500
+

@@ -1,0 +1,22 @@
+
+# The name of the mod loader type to load - for regular FML @Mod mods it should be javafml
+modLoader="javafml"
+loaderVersion="[41,)"
+# The license for you mod. This is mandatory metadata and allows for easier comprehension of your redistributive properties.
+# Review your options at https://choosealicense.com/. All rights reserved is the default copyright stance, and is thus the default here.
+license="All rights reserved"
+# A URL to refer people to when problems occur with this mod.
+#issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/" #optional
+# A list of mods - how many allowed here is determined by the individual mod loader
+[[mods]]
+modId="firstmod"
+version="${file.jarVersion}"
+displayName="Mod para aprender"
+updateJSONURL=""
+displayURL=""
+credits="A mi por no quedarme quieto y a Morsa Programando por explicarme"
+logoFile=""
+authors="Robbin1238"
+description='''
+    Hello Mojang
+'''
