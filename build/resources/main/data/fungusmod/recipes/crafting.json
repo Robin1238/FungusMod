@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "1 1",
+    " 1 "
+  ],
+  "key": {
+    "1": {
+      "item": "fungusmod:craft_item"
+    }
+  },
+  "result": {
+    "item": "fungusmod:hito_hito"
+  }
+}

@@ -9,14 +9,14 @@ license="All rights reserved"
 #issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/" #optional
 # A list of mods - how many allowed here is determined by the individual mod loader
 [[mods]]
-modId="firstmod"
+modId="fungusmod"
 version="${file.jarVersion}"
-displayName="Mod para aprender"
+displayName="Fungus Rob"
 updateJSONURL=""
 displayURL=""
-credits="A mi por no quedarme quieto y a Morsa Programando por explicarme"
+credits="To me"
 logoFile=""
-authors="Robbin1238"
+authors="Robin1238"
 description='''
-    Hello Mojang
+    ADD DESCRIPTION
 '''

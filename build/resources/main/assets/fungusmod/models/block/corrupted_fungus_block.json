@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures" : {
+    "all": "fungusmod:blocks/corrupted_fungus_block"
+  }
+
+}
